@@ -34058,13 +34058,13 @@ html:not(.lt-ie10) .not-animated {
 	margin-left: 0;
 }
 
-.rd-navbar-static.rd-navbar-secondary .rd-navbar-nav > li:last-child {
+/* .rd-navbar-static.rd-navbar-secondary .rd-navbar-nav > li:last-child {
 	color: #212121;
 	background-color: #ffde00;
-}
+} */
 
 .rd-navbar-static.rd-navbar-secondary .rd-navbar-nav > li:last-child > a {
-	color: #212121;
+	color: #fff;
 	background-color: transparent;
 }
 
